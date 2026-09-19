@@ -1,0 +1,942 @@
+{
+  "version": 1,
+  "note": "配信側の素材台帳。ビルド時に src/content/assets.ts が読む。",
+  "entries": [
+    {
+      "id": "app.icon",
+      "status": "approved",
+      "path": "icons/app-512.png",
+      "width": 512,
+      "height": 512,
+      "anchor": {
+        "x": 256,
+        "y": 512
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "app.icon.maskable",
+      "status": "approved",
+      "path": "icons/app-maskable-512.png",
+      "width": 512,
+      "height": 512,
+      "anchor": {
+        "x": 256,
+        "y": 512
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "boss.dragon.atlas",
+      "status": "approved",
+      "path": "assets/bosses/dragon-atlas.webp",
+      "width": 384,
+      "height": 384,
+      "anchor": {
+        "x": 192,
+        "y": 352
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "boss.guardian.atlas",
+      "status": "approved",
+      "path": "assets/bosses/guardian-atlas.webp",
+      "width": 384,
+      "height": 384,
+      "anchor": {
+        "x": 192,
+        "y": 352
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "boss.treant.atlas",
+      "status": "approved",
+      "path": "assets/bosses/treant-atlas.webp",
+      "width": 384,
+      "height": 384,
+      "anchor": {
+        "x": 192,
+        "y": 352
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "effect.impact",
+      "status": "approved",
+      "path": "assets/effects/impact.webp",
+      "width": 128,
+      "height": 128,
+      "anchor": {
+        "x": 64,
+        "y": 64
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "effect.levelup",
+      "status": "approved",
+      "path": "assets/effects/levelup.webp",
+      "width": 128,
+      "height": 128,
+      "anchor": {
+        "x": 64,
+        "y": 64
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "effect.slash",
+      "status": "approved",
+      "path": "assets/effects/slash.webp",
+      "width": 128,
+      "height": 128,
+      "anchor": {
+        "x": 64,
+        "y": 64
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "effect.warning",
+      "status": "approved",
+      "path": "assets/effects/warning.webp",
+      "width": 128,
+      "height": 128,
+      "anchor": {
+        "x": 64,
+        "y": 64
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "enemy.archer_enemy.atlas",
+      "status": "approved",
+      "path": "assets/enemies/archer_enemy-atlas.webp",
+      "width": 96,
+      "height": 96,
+      "anchor": {
+        "x": 48,
+        "y": 84
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "enemy.boar.atlas",
+      "status": "approved",
+      "path": "assets/enemies/boar-atlas.webp",
+      "width": 96,
+      "height": 96,
+      "anchor": {
+        "x": 48,
+        "y": 84
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "enemy.bomber.atlas",
+      "status": "approved",
+      "path": "assets/enemies/bomber-atlas.webp",
+      "width": 96,
+      "height": 96,
+      "anchor": {
+        "x": 48,
+        "y": 84
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "enemy.drake.atlas",
+      "status": "approved",
+      "path": "assets/enemies/drake-atlas.webp",
+      "width": 96,
+      "height": 96,
+      "anchor": {
+        "x": 48,
+        "y": 84
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "enemy.goblin.atlas",
+      "status": "approved",
+      "path": "assets/enemies/goblin-atlas.webp",
+      "width": 96,
+      "height": 96,
+      "anchor": {
+        "x": 48,
+        "y": 84
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "enemy.ice_mage.atlas",
+      "status": "approved",
+      "path": "assets/enemies/ice_mage-atlas.webp",
+      "width": 96,
+      "height": 96,
+      "anchor": {
+        "x": 48,
+        "y": 84
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "enemy.rockling.atlas",
+      "status": "approved",
+      "path": "assets/enemies/rockling-atlas.webp",
+      "width": 96,
+      "height": 96,
+      "anchor": {
+        "x": 48,
+        "y": 84
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "enemy.shaman.atlas",
+      "status": "approved",
+      "path": "assets/enemies/shaman-atlas.webp",
+      "width": 96,
+      "height": 96,
+      "anchor": {
+        "x": 48,
+        "y": 84
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "enemy.shield_guard.atlas",
+      "status": "approved",
+      "path": "assets/enemies/shield_guard-atlas.webp",
+      "width": 96,
+      "height": 96,
+      "anchor": {
+        "x": 48,
+        "y": 84
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "enemy.slime.atlas",
+      "status": "approved",
+      "path": "assets/enemies/slime-atlas.webp",
+      "width": 96,
+      "height": 96,
+      "anchor": {
+        "x": 48,
+        "y": 84
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "enemy.wisp.atlas",
+      "status": "approved",
+      "path": "assets/enemies/wisp-atlas.webp",
+      "width": 96,
+      "height": 96,
+      "anchor": {
+        "x": 48,
+        "y": 84
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "enemy.wolf.atlas",
+      "status": "approved",
+      "path": "assets/enemies/wolf-atlas.webp",
+      "width": 96,
+      "height": 96,
+      "anchor": {
+        "x": 48,
+        "y": 84
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "hero.archer.atlas",
+      "status": "approved",
+      "path": "assets/heroes/archer-atlas.webp",
+      "width": 128,
+      "height": 128,
+      "anchor": {
+        "x": 64,
+        "y": 112
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "hero.archer.attack",
+      "status": "approved",
+      "path": "assets/heroes/archer-attack.webp",
+      "width": 128,
+      "height": 128,
+      "anchor": {
+        "x": 64,
+        "y": 112
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "hero.archer.portrait",
+      "status": "approved",
+      "path": "assets/heroes/archer-portrait.webp",
+      "width": 256,
+      "height": 256,
+      "anchor": {
+        "x": 128,
+        "y": 256
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "hero.archer.walk",
+      "status": "approved",
+      "path": "assets/heroes/archer-walk.webp",
+      "width": 128,
+      "height": 128,
+      "anchor": {
+        "x": 64,
+        "y": 112
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "hero.knight.atlas",
+      "status": "approved",
+      "path": "assets/heroes/knight-atlas.webp",
+      "width": 128,
+      "height": 128,
+      "anchor": {
+        "x": 64,
+        "y": 112
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "hero.knight.attack",
+      "status": "approved",
+      "path": "assets/heroes/knight-attack.webp",
+      "width": 128,
+      "height": 128,
+      "anchor": {
+        "x": 64,
+        "y": 112
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "hero.knight.portrait",
+      "status": "approved",
+      "path": "assets/heroes/knight-portrait.webp",
+      "width": 256,
+      "height": 256,
+      "anchor": {
+        "x": 128,
+        "y": 256
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "hero.knight.walk",
+      "status": "approved",
+      "path": "assets/heroes/knight-walk.webp",
+      "width": 128,
+      "height": 128,
+      "anchor": {
+        "x": 64,
+        "y": 112
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "hero.mage.atlas",
+      "status": "approved",
+      "path": "assets/heroes/mage-atlas.webp",
+      "width": 128,
+      "height": 128,
+      "anchor": {
+        "x": 64,
+        "y": 112
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "hero.mage.attack",
+      "status": "approved",
+      "path": "assets/heroes/mage-attack.webp",
+      "width": 128,
+      "height": 128,
+      "anchor": {
+        "x": 64,
+        "y": 112
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "hero.mage.portrait",
+      "status": "approved",
+      "path": "assets/heroes/mage-portrait.webp",
+      "width": 256,
+      "height": 256,
+      "anchor": {
+        "x": 128,
+        "y": 256
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "hero.mage.walk",
+      "status": "approved",
+      "path": "assets/heroes/mage-walk.webp",
+      "width": 128,
+      "height": 128,
+      "anchor": {
+        "x": 64,
+        "y": 112
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "hero.priest.atlas",
+      "status": "approved",
+      "path": "assets/heroes/priest-atlas.webp",
+      "width": 128,
+      "height": 128,
+      "anchor": {
+        "x": 64,
+        "y": 112
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "hero.priest.attack",
+      "status": "approved",
+      "path": "assets/heroes/priest-attack.webp",
+      "width": 128,
+      "height": 128,
+      "anchor": {
+        "x": 64,
+        "y": 112
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "hero.priest.portrait",
+      "status": "approved",
+      "path": "assets/heroes/priest-portrait.webp",
+      "width": 256,
+      "height": 256,
+      "anchor": {
+        "x": 128,
+        "y": 256
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "hero.priest.walk",
+      "status": "approved",
+      "path": "assets/heroes/priest-walk.webp",
+      "width": 128,
+      "height": 128,
+      "anchor": {
+        "x": 64,
+        "y": 112
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "hero.rogue.atlas",
+      "status": "approved",
+      "path": "assets/heroes/rogue-atlas.webp",
+      "width": 128,
+      "height": 128,
+      "anchor": {
+        "x": 64,
+        "y": 112
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "hero.rogue.attack",
+      "status": "approved",
+      "path": "assets/heroes/rogue-attack.webp",
+      "width": 128,
+      "height": 128,
+      "anchor": {
+        "x": 64,
+        "y": 112
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "hero.rogue.portrait",
+      "status": "approved",
+      "path": "assets/heroes/rogue-portrait.webp",
+      "width": 256,
+      "height": 256,
+      "anchor": {
+        "x": 128,
+        "y": 256
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "hero.rogue.walk",
+      "status": "approved",
+      "path": "assets/heroes/rogue-walk.webp",
+      "width": 128,
+      "height": 128,
+      "anchor": {
+        "x": 64,
+        "y": 112
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "hero.summoner.atlas",
+      "status": "approved",
+      "path": "assets/heroes/summoner-atlas.webp",
+      "width": 128,
+      "height": 128,
+      "anchor": {
+        "x": 64,
+        "y": 112
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "hero.summoner.attack",
+      "status": "approved",
+      "path": "assets/heroes/summoner-attack.webp",
+      "width": 128,
+      "height": 128,
+      "anchor": {
+        "x": 64,
+        "y": 112
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "hero.summoner.portrait",
+      "status": "approved",
+      "path": "assets/heroes/summoner-portrait.webp",
+      "width": 256,
+      "height": 256,
+      "anchor": {
+        "x": 128,
+        "y": 256
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "hero.summoner.walk",
+      "status": "approved",
+      "path": "assets/heroes/summoner-walk.webp",
+      "width": 128,
+      "height": 128,
+      "anchor": {
+        "x": 64,
+        "y": 112
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "icon.evolution.greatsword",
+      "status": "approved",
+      "path": "assets/icons/evolution-greatsword.webp",
+      "width": 96,
+      "height": 96,
+      "anchor": {
+        "x": 48,
+        "y": 96
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "icon.evolution.meteor",
+      "status": "approved",
+      "path": "assets/icons/evolution-meteor.webp",
+      "width": 96,
+      "height": 96,
+      "anchor": {
+        "x": 48,
+        "y": 96
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "icon.evolution.sanctuary",
+      "status": "approved",
+      "path": "assets/icons/evolution-sanctuary.webp",
+      "width": 96,
+      "height": 96,
+      "anchor": {
+        "x": 48,
+        "y": 96
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "icon.evolution.storm_bow",
+      "status": "approved",
+      "path": "assets/icons/evolution-storm_bow.webp",
+      "width": 96,
+      "height": 96,
+      "anchor": {
+        "x": 48,
+        "y": 96
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "icon.passive.fortune",
+      "status": "approved",
+      "path": "assets/icons/passive-fortune.webp",
+      "width": 96,
+      "height": 96,
+      "anchor": {
+        "x": 48,
+        "y": 96
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "icon.passive.guard",
+      "status": "approved",
+      "path": "assets/icons/passive-guard.webp",
+      "width": 96,
+      "height": 96,
+      "anchor": {
+        "x": 48,
+        "y": 96
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "icon.passive.haste",
+      "status": "approved",
+      "path": "assets/icons/passive-haste.webp",
+      "width": 96,
+      "height": 96,
+      "anchor": {
+        "x": 48,
+        "y": 96
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "icon.passive.magnet",
+      "status": "approved",
+      "path": "assets/icons/passive-magnet.webp",
+      "width": 96,
+      "height": 96,
+      "anchor": {
+        "x": 48,
+        "y": 96
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "icon.passive.power",
+      "status": "approved",
+      "path": "assets/icons/passive-power.webp",
+      "width": 96,
+      "height": 96,
+      "anchor": {
+        "x": 48,
+        "y": 96
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "icon.passive.reach",
+      "status": "approved",
+      "path": "assets/icons/passive-reach.webp",
+      "width": 96,
+      "height": 96,
+      "anchor": {
+        "x": 48,
+        "y": 96
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "icon.passive.vitality",
+      "status": "approved",
+      "path": "assets/icons/passive-vitality.webp",
+      "width": 96,
+      "height": 96,
+      "anchor": {
+        "x": 48,
+        "y": 96
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "icon.passive.wisdom",
+      "status": "approved",
+      "path": "assets/icons/passive-wisdom.webp",
+      "width": 96,
+      "height": 96,
+      "anchor": {
+        "x": 48,
+        "y": 96
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "icon.weapon.bow",
+      "status": "approved",
+      "path": "assets/icons/weapon-bow.webp",
+      "width": 96,
+      "height": 96,
+      "anchor": {
+        "x": 48,
+        "y": 96
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "icon.weapon.dagger",
+      "status": "approved",
+      "path": "assets/icons/weapon-dagger.webp",
+      "width": 96,
+      "height": 96,
+      "anchor": {
+        "x": 48,
+        "y": 96
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "icon.weapon.fireball",
+      "status": "approved",
+      "path": "assets/icons/weapon-fireball.webp",
+      "width": 96,
+      "height": 96,
+      "anchor": {
+        "x": 48,
+        "y": 96
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "icon.weapon.frost_orb",
+      "status": "approved",
+      "path": "assets/icons/weapon-frost_orb.webp",
+      "width": 96,
+      "height": 96,
+      "anchor": {
+        "x": 48,
+        "y": 96
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "icon.weapon.holy_ring",
+      "status": "approved",
+      "path": "assets/icons/weapon-holy_ring.webp",
+      "width": 96,
+      "height": 96,
+      "anchor": {
+        "x": 48,
+        "y": 96
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "icon.weapon.lightning",
+      "status": "approved",
+      "path": "assets/icons/weapon-lightning.webp",
+      "width": 96,
+      "height": 96,
+      "anchor": {
+        "x": 48,
+        "y": 96
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "icon.weapon.spirit",
+      "status": "approved",
+      "path": "assets/icons/weapon-spirit.webp",
+      "width": 96,
+      "height": 96,
+      "anchor": {
+        "x": 48,
+        "y": 96
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "icon.weapon.sword",
+      "status": "approved",
+      "path": "assets/icons/weapon-sword.webp",
+      "width": 96,
+      "height": 96,
+      "anchor": {
+        "x": 48,
+        "y": 96
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "pickup.chest",
+      "status": "approved",
+      "path": "assets/pickups/chest.webp",
+      "width": 64,
+      "height": 64,
+      "anchor": {
+        "x": 32,
+        "y": 64
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "pickup.coin",
+      "status": "approved",
+      "path": "assets/pickups/coin.webp",
+      "width": 64,
+      "height": 64,
+      "anchor": {
+        "x": 32,
+        "y": 64
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "pickup.heal",
+      "status": "approved",
+      "path": "assets/pickups/heal.webp",
+      "width": 64,
+      "height": 64,
+      "anchor": {
+        "x": 32,
+        "y": 64
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "pickup.xp",
+      "status": "approved",
+      "path": "assets/pickups/xp.webp",
+      "width": 64,
+      "height": 64,
+      "anchor": {
+        "x": 32,
+        "y": 64
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "world.forest",
+      "status": "approved",
+      "path": "assets/world/forest.webp",
+      "width": 512,
+      "height": 512,
+      "anchor": {
+        "x": 256,
+        "y": 512
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "world.mountain",
+      "status": "approved",
+      "path": "assets/world/mountain.webp",
+      "width": 512,
+      "height": 512,
+      "anchor": {
+        "x": 256,
+        "y": 512
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "world.ruins",
+      "status": "approved",
+      "path": "assets/world/ruins.webp",
+      "width": 512,
+      "height": 512,
+      "anchor": {
+        "x": 256,
+        "y": 512
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    }
+  ]
+}
