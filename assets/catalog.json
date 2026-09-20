@@ -30,7 +30,7 @@
     },
     {
       "id": "boss.dragon.atlas",
-      "status": "development",
+      "status": "approved",
       "path": "assets/bosses/dragon-atlas.webp",
       "width": 384,
       "height": 384,
@@ -43,7 +43,7 @@
     },
     {
       "id": "boss.guardian.atlas",
-      "status": "development",
+      "status": "approved",
       "path": "assets/bosses/guardian-atlas.webp",
       "width": 384,
       "height": 384,
@@ -56,7 +56,7 @@
     },
     {
       "id": "boss.treant.atlas",
-      "status": "development",
+      "status": "approved",
       "path": "assets/bosses/treant-atlas.webp",
       "width": 384,
       "height": 384,
@@ -121,7 +121,7 @@
     },
     {
       "id": "enemy.archer_enemy.atlas",
-      "status": "development",
+      "status": "approved",
       "path": "assets/enemies/archer_enemy-atlas.webp",
       "width": 96,
       "height": 96,
@@ -134,7 +134,7 @@
     },
     {
       "id": "enemy.archer_enemy.side_idle",
-      "status": "development",
+      "status": "approved",
       "path": "assets/enemies/archer_enemy-side_idle.webp",
       "width": 96,
       "height": 96,
@@ -147,7 +147,7 @@
     },
     {
       "id": "enemy.archer_enemy.up_idle",
-      "status": "development",
+      "status": "approved",
       "path": "assets/enemies/archer_enemy-up_idle.webp",
       "width": 96,
       "height": 96,
@@ -160,7 +160,7 @@
     },
     {
       "id": "enemy.boar.atlas",
-      "status": "development",
+      "status": "approved",
       "path": "assets/enemies/boar-atlas.webp",
       "width": 96,
       "height": 96,
@@ -173,7 +173,7 @@
     },
     {
       "id": "enemy.boar.side_idle",
-      "status": "development",
+      "status": "approved",
       "path": "assets/enemies/boar-side_idle.webp",
       "width": 96,
       "height": 96,
@@ -186,7 +186,7 @@
     },
     {
       "id": "enemy.boar.up_idle",
-      "status": "development",
+      "status": "approved",
       "path": "assets/enemies/boar-up_idle.webp",
       "width": 96,
       "height": 96,
@@ -199,7 +199,7 @@
     },
     {
       "id": "enemy.bomber.atlas",
-      "status": "development",
+      "status": "approved",
       "path": "assets/enemies/bomber-atlas.webp",
       "width": 96,
       "height": 96,
@@ -212,7 +212,7 @@
     },
     {
       "id": "enemy.bomber.side_idle",
-      "status": "development",
+      "status": "approved",
       "path": "assets/enemies/bomber-side_idle.webp",
       "width": 96,
       "height": 96,
@@ -225,7 +225,7 @@
     },
     {
       "id": "enemy.bomber.up_idle",
-      "status": "development",
+      "status": "approved",
       "path": "assets/enemies/bomber-up_idle.webp",
       "width": 96,
       "height": 96,
@@ -238,7 +238,7 @@
     },
     {
       "id": "enemy.drake.atlas",
-      "status": "development",
+      "status": "approved",
       "path": "assets/enemies/drake-atlas.webp",
       "width": 96,
       "height": 96,
@@ -251,7 +251,7 @@
     },
     {
       "id": "enemy.drake.side_idle",
-      "status": "development",
+      "status": "approved",
       "path": "assets/enemies/drake-side_idle.webp",
       "width": 96,
       "height": 96,
@@ -264,7 +264,7 @@
     },
     {
       "id": "enemy.drake.up_idle",
-      "status": "development",
+      "status": "approved",
       "path": "assets/enemies/drake-up_idle.webp",
       "width": 96,
       "height": 96,
@@ -277,7 +277,7 @@
     },
     {
       "id": "enemy.goblin.atlas",
-      "status": "development",
+      "status": "approved",
       "path": "assets/enemies/goblin-atlas.webp",
       "width": 96,
       "height": 96,
@@ -290,7 +290,7 @@
     },
     {
       "id": "enemy.goblin.side_idle",
-      "status": "development",
+      "status": "approved",
       "path": "assets/enemies/goblin-side_idle.webp",
       "width": 96,
       "height": 96,
@@ -303,7 +303,7 @@
     },
     {
       "id": "enemy.goblin.up_idle",
-      "status": "development",
+      "status": "approved",
       "path": "assets/enemies/goblin-up_idle.webp",
       "width": 96,
       "height": 96,
@@ -316,7 +316,7 @@
     },
     {
       "id": "enemy.ice_mage.atlas",
-      "status": "development",
+      "status": "approved",
       "path": "assets/enemies/ice_mage-atlas.webp",
       "width": 96,
       "height": 96,
@@ -329,7 +329,7 @@
     },
     {
       "id": "enemy.ice_mage.side_idle",
-      "status": "development",
+      "status": "approved",
       "path": "assets/enemies/ice_mage-side_idle.webp",
       "width": 96,
       "height": 96,
@@ -342,7 +342,7 @@
     },
     {
       "id": "enemy.ice_mage.up_idle",
-      "status": "development",
+      "status": "approved",
       "path": "assets/enemies/ice_mage-up_idle.webp",
       "width": 96,
       "height": 96,
@@ -355,7 +355,7 @@
     },
     {
       "id": "enemy.rockling.atlas",
-      "status": "development",
+      "status": "approved",
       "path": "assets/enemies/rockling-atlas.webp",
       "width": 96,
       "height": 96,
@@ -368,7 +368,7 @@
     },
     {
       "id": "enemy.rockling.side_idle",
-      "status": "development",
+      "status": "approved",
       "path": "assets/enemies/rockling-side_idle.webp",
       "width": 96,
       "height": 96,
@@ -381,7 +381,7 @@
     },
     {
       "id": "enemy.rockling.up_idle",
-      "status": "development",
+      "status": "approved",
       "path": "assets/enemies/rockling-up_idle.webp",
       "width": 96,
       "height": 96,
@@ -394,7 +394,7 @@
     },
     {
       "id": "enemy.shaman.atlas",
-      "status": "development",
+      "status": "approved",
       "path": "assets/enemies/shaman-atlas.webp",
       "width": 96,
       "height": 96,
@@ -407,7 +407,7 @@
     },
     {
       "id": "enemy.shaman.side_idle",
-      "status": "development",
+      "status": "approved",
       "path": "assets/enemies/shaman-side_idle.webp",
       "width": 96,
       "height": 96,
@@ -420,7 +420,7 @@
     },
     {
       "id": "enemy.shaman.up_idle",
-      "status": "development",
+      "status": "approved",
       "path": "assets/enemies/shaman-up_idle.webp",
       "width": 96,
       "height": 96,
@@ -433,7 +433,7 @@
     },
     {
       "id": "enemy.shield_guard.atlas",
-      "status": "development",
+      "status": "approved",
       "path": "assets/enemies/shield_guard-atlas.webp",
       "width": 96,
       "height": 96,
@@ -446,7 +446,7 @@
     },
     {
       "id": "enemy.shield_guard.side_idle",
-      "status": "development",
+      "status": "approved",
       "path": "assets/enemies/shield_guard-side_idle.webp",
       "width": 96,
       "height": 96,
@@ -459,7 +459,7 @@
     },
     {
       "id": "enemy.shield_guard.up_idle",
-      "status": "development",
+      "status": "approved",
       "path": "assets/enemies/shield_guard-up_idle.webp",
       "width": 96,
       "height": 96,
@@ -472,7 +472,7 @@
     },
     {
       "id": "enemy.slime.atlas",
-      "status": "development",
+      "status": "approved",
       "path": "assets/enemies/slime-atlas.webp",
       "width": 96,
       "height": 96,
@@ -485,7 +485,7 @@
     },
     {
       "id": "enemy.slime.side_idle",
-      "status": "development",
+      "status": "approved",
       "path": "assets/enemies/slime-side_idle.webp",
       "width": 96,
       "height": 96,
@@ -498,7 +498,7 @@
     },
     {
       "id": "enemy.slime.up_idle",
-      "status": "development",
+      "status": "approved",
       "path": "assets/enemies/slime-up_idle.webp",
       "width": 96,
       "height": 96,
@@ -511,7 +511,7 @@
     },
     {
       "id": "enemy.wisp.atlas",
-      "status": "development",
+      "status": "approved",
       "path": "assets/enemies/wisp-atlas.webp",
       "width": 96,
       "height": 96,
@@ -524,7 +524,7 @@
     },
     {
       "id": "enemy.wisp.side_idle",
-      "status": "development",
+      "status": "approved",
       "path": "assets/enemies/wisp-side_idle.webp",
       "width": 96,
       "height": 96,
@@ -537,7 +537,7 @@
     },
     {
       "id": "enemy.wisp.up_idle",
-      "status": "development",
+      "status": "approved",
       "path": "assets/enemies/wisp-up_idle.webp",
       "width": 96,
       "height": 96,
@@ -550,7 +550,7 @@
     },
     {
       "id": "enemy.wolf.atlas",
-      "status": "development",
+      "status": "approved",
       "path": "assets/enemies/wolf-atlas.webp",
       "width": 96,
       "height": 96,
@@ -563,7 +563,7 @@
     },
     {
       "id": "enemy.wolf.side_idle",
-      "status": "development",
+      "status": "approved",
       "path": "assets/enemies/wolf-side_idle.webp",
       "width": 96,
       "height": 96,
@@ -576,7 +576,7 @@
     },
     {
       "id": "enemy.wolf.up_idle",
-      "status": "development",
+      "status": "approved",
       "path": "assets/enemies/wolf-up_idle.webp",
       "width": 96,
       "height": 96,
@@ -589,7 +589,7 @@
     },
     {
       "id": "hero.archer.atlas",
-      "status": "development",
+      "status": "approved",
       "path": "assets/heroes/archer-atlas.webp",
       "width": 128,
       "height": 128,
@@ -602,7 +602,7 @@
     },
     {
       "id": "hero.archer.attack",
-      "status": "development",
+      "status": "approved",
       "path": "assets/heroes/archer-attack.webp",
       "width": 128,
       "height": 128,
@@ -628,7 +628,7 @@
     },
     {
       "id": "hero.archer.side_attack",
-      "status": "development",
+      "status": "approved",
       "path": "assets/heroes/archer-side_attack.webp",
       "width": 128,
       "height": 128,
@@ -641,7 +641,7 @@
     },
     {
       "id": "hero.archer.side_idle",
-      "status": "development",
+      "status": "approved",
       "path": "assets/heroes/archer-side_idle.webp",
       "width": 128,
       "height": 128,
@@ -654,7 +654,7 @@
     },
     {
       "id": "hero.archer.side_walk",
-      "status": "development",
+      "status": "approved",
       "path": "assets/heroes/archer-side_walk.webp",
       "width": 128,
       "height": 128,
@@ -667,7 +667,7 @@
     },
     {
       "id": "hero.archer.up_attack",
-      "status": "development",
+      "status": "approved",
       "path": "assets/heroes/archer-up_attack.webp",
       "width": 128,
       "height": 128,
@@ -680,7 +680,7 @@
     },
     {
       "id": "hero.archer.up_idle",
-      "status": "development",
+      "status": "approved",
       "path": "assets/heroes/archer-up_idle.webp",
       "width": 128,
       "height": 128,
@@ -693,7 +693,7 @@
     },
     {
       "id": "hero.archer.up_walk",
-      "status": "development",
+      "status": "approved",
       "path": "assets/heroes/archer-up_walk.webp",
       "width": 128,
       "height": 128,
@@ -706,7 +706,7 @@
     },
     {
       "id": "hero.archer.walk",
-      "status": "development",
+      "status": "approved",
       "path": "assets/heroes/archer-walk.webp",
       "width": 128,
       "height": 128,
@@ -719,7 +719,7 @@
     },
     {
       "id": "hero.knight.atlas",
-      "status": "development",
+      "status": "approved",
       "path": "assets/heroes/knight-atlas.webp",
       "width": 128,
       "height": 128,
@@ -732,7 +732,7 @@
     },
     {
       "id": "hero.knight.attack",
-      "status": "development",
+      "status": "approved",
       "path": "assets/heroes/knight-attack.webp",
       "width": 128,
       "height": 128,
@@ -758,7 +758,7 @@
     },
     {
       "id": "hero.knight.side_attack",
-      "status": "development",
+      "status": "approved",
       "path": "assets/heroes/knight-side_attack.webp",
       "width": 128,
       "height": 128,
@@ -771,7 +771,7 @@
     },
     {
       "id": "hero.knight.side_idle",
-      "status": "development",
+      "status": "approved",
       "path": "assets/heroes/knight-side_idle.webp",
       "width": 128,
       "height": 128,
@@ -784,7 +784,7 @@
     },
     {
       "id": "hero.knight.side_walk",
-      "status": "development",
+      "status": "approved",
       "path": "assets/heroes/knight-side_walk.webp",
       "width": 128,
       "height": 128,
@@ -797,7 +797,7 @@
     },
     {
       "id": "hero.knight.up_attack",
-      "status": "development",
+      "status": "approved",
       "path": "assets/heroes/knight-up_attack.webp",
       "width": 128,
       "height": 128,
@@ -810,7 +810,7 @@
     },
     {
       "id": "hero.knight.up_idle",
-      "status": "development",
+      "status": "approved",
       "path": "assets/heroes/knight-up_idle.webp",
       "width": 128,
       "height": 128,
@@ -823,7 +823,7 @@
     },
     {
       "id": "hero.knight.up_walk",
-      "status": "development",
+      "status": "approved",
       "path": "assets/heroes/knight-up_walk.webp",
       "width": 128,
       "height": 128,
@@ -836,7 +836,7 @@
     },
     {
       "id": "hero.knight.walk",
-      "status": "development",
+      "status": "approved",
       "path": "assets/heroes/knight-walk.webp",
       "width": 128,
       "height": 128,
@@ -849,7 +849,7 @@
     },
     {
       "id": "hero.mage.atlas",
-      "status": "development",
+      "status": "approved",
       "path": "assets/heroes/mage-atlas.webp",
       "width": 128,
       "height": 128,
@@ -862,7 +862,7 @@
     },
     {
       "id": "hero.mage.attack",
-      "status": "development",
+      "status": "approved",
       "path": "assets/heroes/mage-attack.webp",
       "width": 128,
       "height": 128,
@@ -888,7 +888,7 @@
     },
     {
       "id": "hero.mage.side_attack",
-      "status": "development",
+      "status": "approved",
       "path": "assets/heroes/mage-side_attack.webp",
       "width": 128,
       "height": 128,
@@ -901,7 +901,7 @@
     },
     {
       "id": "hero.mage.side_idle",
-      "status": "development",
+      "status": "approved",
       "path": "assets/heroes/mage-side_idle.webp",
       "width": 128,
       "height": 128,
@@ -914,7 +914,7 @@
     },
     {
       "id": "hero.mage.side_walk",
-      "status": "development",
+      "status": "approved",
       "path": "assets/heroes/mage-side_walk.webp",
       "width": 128,
       "height": 128,
@@ -927,7 +927,7 @@
     },
     {
       "id": "hero.mage.up_attack",
-      "status": "development",
+      "status": "approved",
       "path": "assets/heroes/mage-up_attack.webp",
       "width": 128,
       "height": 128,
@@ -940,7 +940,7 @@
     },
     {
       "id": "hero.mage.up_idle",
-      "status": "development",
+      "status": "approved",
       "path": "assets/heroes/mage-up_idle.webp",
       "width": 128,
       "height": 128,
@@ -953,7 +953,7 @@
     },
     {
       "id": "hero.mage.up_walk",
-      "status": "development",
+      "status": "approved",
       "path": "assets/heroes/mage-up_walk.webp",
       "width": 128,
       "height": 128,
@@ -966,7 +966,7 @@
     },
     {
       "id": "hero.mage.walk",
-      "status": "development",
+      "status": "approved",
       "path": "assets/heroes/mage-walk.webp",
       "width": 128,
       "height": 128,
@@ -979,7 +979,7 @@
     },
     {
       "id": "hero.priest.atlas",
-      "status": "development",
+      "status": "approved",
       "path": "assets/heroes/priest-atlas.webp",
       "width": 128,
       "height": 128,
@@ -992,7 +992,7 @@
     },
     {
       "id": "hero.priest.attack",
-      "status": "development",
+      "status": "approved",
       "path": "assets/heroes/priest-attack.webp",
       "width": 128,
       "height": 128,
@@ -1018,7 +1018,7 @@
     },
     {
       "id": "hero.priest.side_attack",
-      "status": "development",
+      "status": "approved",
       "path": "assets/heroes/priest-side_attack.webp",
       "width": 128,
       "height": 128,
@@ -1031,7 +1031,7 @@
     },
     {
       "id": "hero.priest.side_idle",
-      "status": "development",
+      "status": "approved",
       "path": "assets/heroes/priest-side_idle.webp",
       "width": 128,
       "height": 128,
@@ -1044,7 +1044,7 @@
     },
     {
       "id": "hero.priest.side_walk",
-      "status": "development",
+      "status": "approved",
       "path": "assets/heroes/priest-side_walk.webp",
       "width": 128,
       "height": 128,
@@ -1057,7 +1057,7 @@
     },
     {
       "id": "hero.priest.up_attack",
-      "status": "development",
+      "status": "approved",
       "path": "assets/heroes/priest-up_attack.webp",
       "width": 128,
       "height": 128,
@@ -1070,7 +1070,7 @@
     },
     {
       "id": "hero.priest.up_idle",
-      "status": "development",
+      "status": "approved",
       "path": "assets/heroes/priest-up_idle.webp",
       "width": 128,
       "height": 128,
@@ -1083,7 +1083,7 @@
     },
     {
       "id": "hero.priest.up_walk",
-      "status": "development",
+      "status": "approved",
       "path": "assets/heroes/priest-up_walk.webp",
       "width": 128,
       "height": 128,
@@ -1096,7 +1096,7 @@
     },
     {
       "id": "hero.priest.walk",
-      "status": "development",
+      "status": "approved",
       "path": "assets/heroes/priest-walk.webp",
       "width": 128,
       "height": 128,
@@ -1109,7 +1109,7 @@
     },
     {
       "id": "hero.rogue.atlas",
-      "status": "development",
+      "status": "approved",
       "path": "assets/heroes/rogue-atlas.webp",
       "width": 128,
       "height": 128,
@@ -1122,7 +1122,7 @@
     },
     {
       "id": "hero.rogue.attack",
-      "status": "development",
+      "status": "approved",
       "path": "assets/heroes/rogue-attack.webp",
       "width": 128,
       "height": 128,
@@ -1148,7 +1148,7 @@
     },
     {
       "id": "hero.rogue.side_attack",
-      "status": "development",
+      "status": "approved",
       "path": "assets/heroes/rogue-side_attack.webp",
       "width": 128,
       "height": 128,
@@ -1161,7 +1161,7 @@
     },
     {
       "id": "hero.rogue.side_idle",
-      "status": "development",
+      "status": "approved",
       "path": "assets/heroes/rogue-side_idle.webp",
       "width": 128,
       "height": 128,
@@ -1174,7 +1174,7 @@
     },
     {
       "id": "hero.rogue.side_walk",
-      "status": "development",
+      "status": "approved",
       "path": "assets/heroes/rogue-side_walk.webp",
       "width": 128,
       "height": 128,
@@ -1187,7 +1187,7 @@
     },
     {
       "id": "hero.rogue.up_attack",
-      "status": "development",
+      "status": "approved",
       "path": "assets/heroes/rogue-up_attack.webp",
       "width": 128,
       "height": 128,
@@ -1200,7 +1200,7 @@
     },
     {
       "id": "hero.rogue.up_idle",
-      "status": "development",
+      "status": "approved",
       "path": "assets/heroes/rogue-up_idle.webp",
       "width": 128,
       "height": 128,
@@ -1213,7 +1213,7 @@
     },
     {
       "id": "hero.rogue.up_walk",
-      "status": "development",
+      "status": "approved",
       "path": "assets/heroes/rogue-up_walk.webp",
       "width": 128,
       "height": 128,
@@ -1226,7 +1226,7 @@
     },
     {
       "id": "hero.rogue.walk",
-      "status": "development",
+      "status": "approved",
       "path": "assets/heroes/rogue-walk.webp",
       "width": 128,
       "height": 128,
@@ -1239,7 +1239,7 @@
     },
     {
       "id": "hero.summoner.atlas",
-      "status": "development",
+      "status": "approved",
       "path": "assets/heroes/summoner-atlas.webp",
       "width": 128,
       "height": 128,
@@ -1252,7 +1252,7 @@
     },
     {
       "id": "hero.summoner.attack",
-      "status": "development",
+      "status": "approved",
       "path": "assets/heroes/summoner-attack.webp",
       "width": 128,
       "height": 128,
@@ -1278,7 +1278,7 @@
     },
     {
       "id": "hero.summoner.side_attack",
-      "status": "development",
+      "status": "approved",
       "path": "assets/heroes/summoner-side_attack.webp",
       "width": 128,
       "height": 128,
@@ -1291,7 +1291,7 @@
     },
     {
       "id": "hero.summoner.side_idle",
-      "status": "development",
+      "status": "approved",
       "path": "assets/heroes/summoner-side_idle.webp",
       "width": 128,
       "height": 128,
@@ -1304,7 +1304,7 @@
     },
     {
       "id": "hero.summoner.side_walk",
-      "status": "development",
+      "status": "approved",
       "path": "assets/heroes/summoner-side_walk.webp",
       "width": 128,
       "height": 128,
@@ -1317,7 +1317,7 @@
     },
     {
       "id": "hero.summoner.up_attack",
-      "status": "development",
+      "status": "approved",
       "path": "assets/heroes/summoner-up_attack.webp",
       "width": 128,
       "height": 128,
@@ -1330,7 +1330,7 @@
     },
     {
       "id": "hero.summoner.up_idle",
-      "status": "development",
+      "status": "approved",
       "path": "assets/heroes/summoner-up_idle.webp",
       "width": 128,
       "height": 128,
@@ -1343,7 +1343,7 @@
     },
     {
       "id": "hero.summoner.up_walk",
-      "status": "development",
+      "status": "approved",
       "path": "assets/heroes/summoner-up_walk.webp",
       "width": 128,
       "height": 128,
@@ -1356,7 +1356,7 @@
     },
     {
       "id": "hero.summoner.walk",
-      "status": "development",
+      "status": "approved",
       "path": "assets/heroes/summoner-walk.webp",
       "width": 128,
       "height": 128,
@@ -1681,7 +1681,7 @@
     },
     {
       "id": "ui.title.background",
-      "status": "development",
+      "status": "approved",
       "path": "assets/ui/title-background.webp",
       "width": 720,
       "height": 1280,
@@ -1694,7 +1694,7 @@
     },
     {
       "id": "world.forest",
-      "status": "development",
+      "status": "approved",
       "path": "assets/world/forest.webp",
       "width": 512,
       "height": 512,
