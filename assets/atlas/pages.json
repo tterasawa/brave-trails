@@ -1,3 +1,8 @@
 {
-  "pages": 1
+  "pages": [
+    {
+      "image": "game-0.dc484a82629b.webp",
+      "data": "game-0.dc484a82629b.json"
+    }
+  ]
 }
