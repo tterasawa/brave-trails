@@ -68,6 +68,84 @@
       "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
     },
     {
+      "id": "effect.arrow",
+      "status": "development",
+      "path": "assets/effects/arrow.webp",
+      "width": 128,
+      "height": 12,
+      "anchor": {
+        "x": 64,
+        "y": 6
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "effect.bolt",
+      "status": "development",
+      "path": "assets/effects/bolt.webp",
+      "width": 61,
+      "height": 224,
+      "anchor": {
+        "x": 30,
+        "y": 112
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "effect.explosion",
+      "status": "development",
+      "path": "assets/effects/explosion.webp",
+      "width": 160,
+      "height": 157,
+      "anchor": {
+        "x": 80,
+        "y": 78
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "effect.fireball",
+      "status": "development",
+      "path": "assets/effects/fireball.webp",
+      "width": 128,
+      "height": 46,
+      "anchor": {
+        "x": 64,
+        "y": 23
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "effect.frost",
+      "status": "development",
+      "path": "assets/effects/frost.webp",
+      "width": 141,
+      "height": 150,
+      "anchor": {
+        "x": 70,
+        "y": 75
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "effect.frostbolt",
+      "status": "development",
+      "path": "assets/effects/frostbolt.webp",
+      "width": 128,
+      "height": 43,
+      "anchor": {
+        "x": 64,
+        "y": 21
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
       "id": "effect.impact",
       "status": "approved",
       "path": "assets/effects/impact.webp",
@@ -94,6 +172,19 @@
       "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
     },
     {
+      "id": "effect.ring",
+      "status": "development",
+      "path": "assets/effects/ring.webp",
+      "width": 224,
+      "height": 89,
+      "anchor": {
+        "x": 112,
+        "y": 44
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
       "id": "effect.slash",
       "status": "approved",
       "path": "assets/effects/slash.webp",
@@ -102,6 +193,45 @@
       "anchor": {
         "x": 64,
         "y": 64
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "effect.slash_heavy",
+      "status": "development",
+      "path": "assets/effects/slash_heavy.webp",
+      "width": 192,
+      "height": 126,
+      "anchor": {
+        "x": 96,
+        "y": 63
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "effect.spirit",
+      "status": "development",
+      "path": "assets/effects/spirit.webp",
+      "width": 96,
+      "height": 92,
+      "anchor": {
+        "x": 48,
+        "y": 46
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "effect.stab",
+      "status": "development",
+      "path": "assets/effects/stab.webp",
+      "width": 112,
+      "height": 110,
+      "anchor": {
+        "x": 56,
+        "y": 55
       },
       "source": "codex-imagegen",
       "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
