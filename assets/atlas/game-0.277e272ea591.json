@@ -2159,10 +2159,30 @@
         "w": 64,
         "h": 64
       }
+    },
+    "summon.spirit": {
+      "frame": {
+        "x": 916,
+        "y": 846,
+        "w": 96,
+        "h": 96
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 96
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 96
+      }
     }
   },
   "meta": {
-    "image": "game-0.dc484a82629b.webp",
+    "image": "game-0.277e272ea591.webp",
     "size": {
       "w": 2010,
       "h": 976

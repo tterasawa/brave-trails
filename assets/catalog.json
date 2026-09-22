@@ -69,7 +69,7 @@
     },
     {
       "id": "effect.arrow",
-      "status": "development",
+      "status": "approved",
       "path": "assets/effects/arrow.webp",
       "width": 128,
       "height": 12,
@@ -82,7 +82,7 @@
     },
     {
       "id": "effect.bolt",
-      "status": "development",
+      "status": "approved",
       "path": "assets/effects/bolt.webp",
       "width": 61,
       "height": 224,
@@ -95,7 +95,7 @@
     },
     {
       "id": "effect.explosion",
-      "status": "development",
+      "status": "approved",
       "path": "assets/effects/explosion.webp",
       "width": 160,
       "height": 157,
@@ -108,7 +108,7 @@
     },
     {
       "id": "effect.fireball",
-      "status": "development",
+      "status": "approved",
       "path": "assets/effects/fireball.webp",
       "width": 128,
       "height": 46,
@@ -121,7 +121,7 @@
     },
     {
       "id": "effect.frost",
-      "status": "development",
+      "status": "approved",
       "path": "assets/effects/frost.webp",
       "width": 141,
       "height": 150,
@@ -134,7 +134,7 @@
     },
     {
       "id": "effect.frostbolt",
-      "status": "development",
+      "status": "approved",
       "path": "assets/effects/frostbolt.webp",
       "width": 128,
       "height": 43,
@@ -173,7 +173,7 @@
     },
     {
       "id": "effect.ring",
-      "status": "development",
+      "status": "approved",
       "path": "assets/effects/ring.webp",
       "width": 224,
       "height": 89,
@@ -199,7 +199,7 @@
     },
     {
       "id": "effect.slash_heavy",
-      "status": "development",
+      "status": "approved",
       "path": "assets/effects/slash_heavy.webp",
       "width": 192,
       "height": 126,
@@ -212,7 +212,7 @@
     },
     {
       "id": "effect.spirit",
-      "status": "development",
+      "status": "approved",
       "path": "assets/effects/spirit.webp",
       "width": 96,
       "height": 92,
@@ -225,7 +225,7 @@
     },
     {
       "id": "effect.stab",
-      "status": "development",
+      "status": "approved",
       "path": "assets/effects/stab.webp",
       "width": 112,
       "height": 110,
@@ -1805,6 +1805,19 @@
       "anchor": {
         "x": 32,
         "y": 64
+      },
+      "source": "codex-imagegen",
+      "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
+    },
+    {
+      "id": "summon.spirit",
+      "status": "approved",
+      "path": "assets/summons/spirit.webp",
+      "width": 96,
+      "height": 96,
+      "anchor": {
+        "x": 48,
+        "y": 84
       },
       "source": "codex-imagegen",
       "license": "OpenAI Images の生成物。商用利用の可否は Q04 で取得時点の規約を保存して確認する。"
